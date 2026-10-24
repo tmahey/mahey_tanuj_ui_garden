@@ -1,0 +1,8 @@
+node_modules
+build
+storybook-static
+.git
+.DS_Store
+**/*.stories.tsx
+**/*.tests.tsx
+src/stories
