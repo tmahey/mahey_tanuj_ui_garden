@@ -169,6 +169,7 @@ git branch -M main
 # 7. Link to your remote GitHub repository (replace with your actual GitHub repo URL)
 git remote add origin https://github.com/tmahey/mahey_tanuj_ui_garden.git
 
+
 #    (If 'origin' already exists and you need to update the URL, run this instead:)
 #    git remote set-url origin https://github.com/<YOUR_GITHUB_USERNAME>/mahey_tanuj_ui_garden.git
 
